@@ -1,0 +1,8 @@
+.env
+.env*
+
+# Misc
+.DS_Store
+
+# Air
+tmp
